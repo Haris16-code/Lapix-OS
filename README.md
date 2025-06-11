@@ -41,4 +41,4 @@ Latest update: Added update checker, app search, taskbar clock, and new UI impro
 
 ## 👨‍💻 Developer
 
-Made by **Haris** — aiming to bring a customizable OS-style interface to Python.
+Developed by **Haris** — aiming to bring a customizable OS-style interface to Python.
